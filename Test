@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desmos with Web Links</title>
+</head>
+<body>
+  <iframe src="https://www.desmos.com/calculator" width="600" height="400"></iframe>
+  <br>
+  <a href="https://example.com" target="_blank">Open a Website</a>
+</body>
+</html>
